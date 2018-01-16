@@ -16,7 +16,6 @@
 #define mp make_pair
 #define fi first
 #define se second
-#define pb push_back
 #define pn pc('\n')
 #define all(x) x.begin(),x.end()
 #define fill(a,v) memset(a,v,sizeof a)

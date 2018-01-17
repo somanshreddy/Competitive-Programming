@@ -1,5 +1,6 @@
 #include<cstdio>
 
+use namespace std;
 
 double n,k,m;
 

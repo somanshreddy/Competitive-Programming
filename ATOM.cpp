@@ -14,7 +14,7 @@ void solve()
         k = r*k;
         ans++;
     }
-    //cout << ans << endl;
+    cout << ans << endl;
     printf("%d\n",ans);
 }
 
